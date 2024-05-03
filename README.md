@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 System Engineer starting to develop software
+- 👩🏻‍🎓 Studying business informatics
 - 🌱 I’m currently learning python, git
 
