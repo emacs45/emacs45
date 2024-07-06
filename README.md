@@ -25,6 +25,7 @@ Here are a few things I've been working on:
 
 - [**Advent of Code 2023**](https://github.com/emacs45/advent_of_code_2023): Participating in the daily coding challenges to improve my problem-solving skills.
 - [**XML Parser**](https://github.com/emacs45/xml_parser): A Python script that parses XML files and extracts specific data.
+- [**vpn-snmp-monitoring**](https://github.com/emacs45/vpn-snmp-monitoring): Set up a monitoring stack with Prometheus, Grafana, and Node Exporter using Docker Compose.
 
 ## Skills
 
