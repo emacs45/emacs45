@@ -11,32 +11,38 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-- 🔭 **System Engineer** starting to develop software
-- 👩🏻‍🎓 Studying **Business Informatics**
-- 🌱 Currently learning **Python** and **Git**
+- 🔧 **System Engineer** transitioning into **DevOps / Site Reliability Engineering (SRE)**
+- 👨🏻‍🎓 Studying **Business Informatics (B.Sc.)**
+- 🌱 Currently learning **Python**, **CI/CD**, **Infrastructure as Code (IaC)**, and **Cloud-native tools**
 
 ## About Me
 
-I'm passionate about technology and excited to transition from system engineering to software development. I'm always eager to learn new skills and take on new challenges. My background in business informatics helps me bridge the gap between technical solutions and business needs.
+I'm passionate about building reliable, scalable, and automated systems.  
+With over 10 years of experience in networks and system engineering, I'm now focusing on the DevOps/SRE field — combining my infrastructure background with software skills.
+
+My academic path in Business Informatics allows me to understand both technical systems and their impact on organizations.
 
 ## Projects
 
 Here are a few things I've been working on:
 
-- [**Advent of Code 2023**](https://github.com/emacs45/advent_of_code_2023): Participating in the daily coding challenges to improve my problem-solving skills.
-- [**XML Parser**](https://github.com/emacs45/xml_parser): A Python script that parses XML files and extracts specific data.
-- [**vpn-snmp-monitoring**](https://github.com/emacs45/vpn-snmp-monitoring): Set up a monitoring stack with Prometheus, Grafana, and Node Exporter using Docker Compose.
-- [**QueryMate2**](https://github.com/emacs45/QueryMate2): Bachelor's thesis focused on developing an AI-powered document assistant for businesses.
+- [**QueryMate2**](https://github.com/emacs45/QueryMate2): My Bachelor's thesis – an AI-powered document assistant using LLMs, embeddings and vector search, built with Python, Streamlit and Docker
+- [**vpn-snmp-monitoring**](https://github.com/emacs45/vpn-snmp-monitoring): Monitoring setup with Prometheus, Grafana, Node Exporter, and SNMP for VPN infrastructure
+- [**Advent of Code 2023**](https://github.com/emacs45/advent_of_code_2023): Daily coding challenges to improve Python and algorithmic thinking
+- [**xml_parser**](https://github.com/emacs45/xml_parser): A lightweight XML data extractor written in Python
 
 ## Skills
 
-- **Languages**: Python
-- **Tools**: Git
+- **Languages**: Python, Bash
+- **DevOps Tools**: Git, Docker, Terraform (in progress), Prometheus, Grafana
+- **Concepts**: CI/CD, Observability, Infrastructure as Code, Containerization
+
 
 ## Connect with Me
 
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
+Feel free to reach out if you're interested in DevOps, SRE, infrastructure, or want to collaborate!
 
 ---
 
-Thank you for visiting my profile! 😊
+Thanks for stopping by! 😊
+
