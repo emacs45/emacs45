@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-- 🔧 **System Engineer** transitioning into **DevOps / Site Reliability Engineering (SRE)**
-- 👨🏻‍🎓 Studying **Business Informatics (B.Sc.)**
-- 🌱 Currently learning **Python**, **CI/CD**, **Infrastructure as Code (IaC)**, and **Cloud-native tools**
+- 🔧 System Engineer with a growing focus on DevOps / SRE
+- 🎓 Graduated in Business Informatics (B.Sc.)
+- 🌱 Currently learning Python at advanced level, CI/CD, IaC, Cloud-native tools and Kubernetes
 
 ## About Me
 
