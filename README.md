@@ -1,26 +1,26 @@
-<!--
-### Hi, I'm emacs45!👋
+### Hi, I'm Emec 👋
 
+I'm a System Engineer with 10+ years of experience in network and infrastructure environments, currently focusing on Cloud Engineering, DevOps, and Site Reliability Engineering.
 
-**emacs45/emacs45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-### Hi, I'm emacs45! 👋
-
-Welcome to my GitHub profile!
-
-- 🔧 System Engineer with a growing focus on DevOps / SRE
-- 🎓 Graduated in Business Informatics (B.Sc.)
-- 🌱 Currently learning Python at advanced level, CI/CD, IaC, Cloud-native tools and Kubernetes
+My background combines hands-on infrastructure operations with software engineering practices such as automation, CI/CD, observability, and Infrastructure as Code.
 
 ## About Me
 
-I'm passionate about building reliable, scalable, and automated systems.  
-With over 10 years of experience in networks and system engineering, I'm now focusing on the DevOps/SRE field — combining my infrastructure background with software skills.
+I enjoy building reliable, maintainable, and automated infrastructure solutions.
 
-My academic path in Business Informatics allows me to understand both technical systems and their impact on organizations.
+With my background in system and network engineering, I bring practical experience from traditional infrastructure environments and combine it with modern DevOps and cloud-native approaches.
+
+My current focus areas include:
+
+- Cloud infrastructure with Azure
+- DevOps and SRE practices
+- Infrastructure as Code with Terraform and Bicep
+- CI/CD automation
+- Containerization with Docker and Kubernetes
+- Monitoring and observability with Prometheus and Grafana
+- Python-based automation and tooling
+
+I hold a B.Sc. in Business Informatics, which helps me approach technical challenges from both an engineering and business perspective.
 
 ## Projects
 
@@ -33,16 +33,29 @@ Here are a few things I've been working on:
 
 ## Skills
 
-- **Languages**: Python, Bash
-- **DevOps Tools**: Git, Docker, Terraform (in progress), Prometheus, Grafana
-- **Concepts**: CI/CD, Observability, Infrastructure as Code, Containerization
+**Languages:**  
+Python, Bash
 
+**Cloud & Infrastructure:**  
+Azure, Linux, Networking, VPN Infrastructure
+
+**DevOps & Automation:**  
+Git, GitHub Actions, Docker, Terraform, Bicep
+
+**Monitoring & Observability:**  
+Prometheus, Grafana, Node Exporter, SNMP
+
+**Concepts:**  
+CI/CD, Infrastructure as Code, Containerization, Observability, Cloud-native Architecture, Reliability Engineering
+
+## Current Focus
+
+I'm currently deepening my knowledge in Azure, DevOps workflows, Kubernetes, and Infrastructure as Code to further transition into Cloud Engineering and SRE-focused roles.
 
 ## Connect with Me
 
-Feel free to reach out if you're interested in DevOps, SRE, infrastructure, or want to collaborate!
+Feel free to reach out if you're interested in DevOps, SRE, infrastructure, or collaboration.
 
 ---
 
-Thanks for stopping by! 😊
-
+Thanks for stopping by.
