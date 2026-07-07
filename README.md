@@ -26,6 +26,7 @@ I hold a B.Sc. in Business Informatics, which helps me approach technical challe
 
 Here are a few things I've been working on:
 
+- [**cloud-sync-service**](https://github.com/emacs45/cloud-sync-service): Python service for syncing cloud API data to SQLite and exposing it through a REST API
 - [**QueryMate2**](https://github.com/emacs45/QueryMate2): Bachelor's thesis focused on developing an AI-powered document assistant for businesses
 - [**vpn-snmp-monitoring**](https://github.com/emacs45/vpn-snmp-monitoring): Monitoring setup with Prometheus, Grafana, Node Exporter, and SNMP for VPN infrastructure
 - [**Advent of Code 2023**](https://github.com/emacs45/advent_of_code_2023): Daily coding challenges to improve Python and algorithmic thinking
