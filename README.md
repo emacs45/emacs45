@@ -26,6 +26,7 @@ I hold a B.Sc. in Business Informatics, which helps me approach technical challe
 
 Here are a few things I've been working on:
 
+- [**azure-containerized-webapp**](https://github.com/emacs45/azure-containerized-webapp): Containerized web app with Terraform, Floci AZ, GitHub Actions CI/CD, and automated deployment testing
 - [**azure-network-segmentation**](https://github.com/emacs45/azure-network-segmentation): Azure network segmentation with Terraform, NSGs, Linux VMs, and automated connectivity validation
 - [**vpn-snmp-monitoring**](https://github.com/emacs45/vpn-snmp-monitoring): Monitoring setup with Prometheus, Grafana, Node Exporter, and SNMP for VPN infrastructure
 - [**cloud-sync-service**](https://github.com/emacs45/cloud-sync-service): Python service for syncing cloud API data to SQLite and exposing it through a REST API
